@@ -1,4 +1,4 @@
-# omparative-Sentiment-Analysis-of-Telegram-Channels-During-the-Ukraine-Russia-War
+# Comparative-Sentiment-Analysis-of-Telegram-Channels-During-the-Ukraine-Russia-War
 Thesis project
 The ongoing war between Russia and Ukraine, characterized by deepseated historical and 
 geopolitical tensions, has escalated in intensity in recent years, resulting in increased military 
